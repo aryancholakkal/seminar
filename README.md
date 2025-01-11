@@ -1,2 +1,3 @@
 # seminar
-A simple web app
+
+This is a faculty training program
