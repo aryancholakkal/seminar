@@ -1,2 +1,3 @@
 # seminar
-A simple web app
+
+This is a training session, rather known as FDP.
