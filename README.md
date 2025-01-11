@@ -1,3 +1,3 @@
 # seminar
 
-This is a faculty training program
+This is a training session, rather known as FDP.
